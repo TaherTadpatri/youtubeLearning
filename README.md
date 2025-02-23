@@ -15,7 +15,7 @@ When a user shares a YouTube link:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/TaherTadpatri/youtubeLearning.git](https://github.com/TaherTadpatri/youtubeLearning.git)
+    git clone https://github.com/TaherTadpatri/youtubeLearning.git
     ```
 
 ### Frontend
@@ -88,15 +88,15 @@ Install all necessary dependencies listed in `requirements.txt` and `package.jso
 
 1.  **Chapters of the YouTube video:**
 
-    ![Home page with chapter names](home.jpeg)
+    ![Home page with chapter names](home.jpg)
 
 2.  **Summary of a chapter:**
 
-    ![Summary of a chapter](summary.jpeg)
+    ![Summary of a chapter](summary.jpg)
 
 3.  **Query response:**
 
-    ![Query response](query.jpeg)
+    ![Query response](query.jpg)
 
 4.  **Assessment:**
 
