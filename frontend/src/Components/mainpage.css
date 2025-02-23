@@ -1,0 +1,54 @@
+.containervideo{ 
+    margin-top: 5rem;
+    
+}
+.chapterhead{ 
+    margin-top: 5rem;
+}
+.card{ 
+  margin-top: 2rem ;
+}
+.card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.card ul li {
+  display: flex; /* Use flexbox */
+  justify-content: space-between; /* Align items in a row with space between */
+  align-items: center; /* Vertically center items */
+  padding: 10px 0;
+  margin-left:  2rem;
+  margin-right: 2rem;
+  border-bottom: 1px solid #ccc;
+  font-size: large;
+}
+
+.card ul li:last-child {
+  border-bottom: none; 
+}
+
+.card ul li button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.card ul li button:hover {
+  background-color: #0056b3;
+}
+
+  
+
+.spinner-container {
+  display: flex;
+  justify-content: center; 
+    align-items: center;
+  height: 100vh;
+}
+.down{ 
+  text-decoration: none;
+  
+}

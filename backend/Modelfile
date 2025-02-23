@@ -1,0 +1,11 @@
+FROM llama2
+
+# set the temperature to 1 [higher is more creative, lower is more coherent]
+PARAMETER temperature 1
+PARAMETER num_ctx 4096
+
+# set the system message
+SYSTEM """
+you are given the transcript of the youtube video based on the transcript give the summary of the concept such that 
+it is easily understandable.
+"""

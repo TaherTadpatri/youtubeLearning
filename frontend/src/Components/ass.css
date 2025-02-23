@@ -1,0 +1,8 @@
+.list-options{ 
+ list-style: none;
+ font-size: 2rem;
+}
+
+.list-question{ 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
